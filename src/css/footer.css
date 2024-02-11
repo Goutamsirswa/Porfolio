@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+footer{
+    background-color: hsl(209.23deg 52.7% 70.98%);
+    /* height: 50vh; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px -4px 63px 1px inset;
+}

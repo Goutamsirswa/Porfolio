@@ -1,0 +1,22 @@
+
+.project-item {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  @media (min-width: 768px) {
+    .project-item {
+      flex-direction: row;
+      align-items: center;
+    }
+    .project-details {
+      width: 50%;
+      padding-right: 20px;
+      
+    }
+    .project-description {
+      width: 50%;
+      
+    }
+  }
+  
